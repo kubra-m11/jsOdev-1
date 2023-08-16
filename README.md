@@ -1,1 +1,1 @@
-# jsOdev-1
+# Java Script ile function methodlarını kullanarak bir web sitesi yaptım.
